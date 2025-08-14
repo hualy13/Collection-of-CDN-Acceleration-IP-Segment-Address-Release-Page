@@ -3,6 +3,7 @@
 
 # Akamai
 https://techdocs.akamai.com/property-manager/pdfs/akamai_ipv4_CIDRs.txt
+
 https://techdocs.akamai.com/property-manager/pdfs/akamai_ipv6_CIDRs.txt
 
 # AWS CloudFront (Amazon)
@@ -10,6 +11,7 @@ https://ip-ranges.amazonaws.com/ip-ranges.json
 
 # BunnyCDN
 https://api.bunny.net/system/edgeserverlist
+
 https://api.bunny.net/system/edgeserverlist/plain
 
 # CacheFly
@@ -17,6 +19,7 @@ https://cachefly.cachefly.net/ips/cdn.txt
 
 # Cloudflare
 https://www.cloudflare.com/ips-v4
+
 https://www.cloudflare.com/ips-v6
 
 # CloudFront
